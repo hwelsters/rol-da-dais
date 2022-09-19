@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e3c03a734e7df949b87ec97093834ed, type: 3}
+  m_Name: DieSprites
+  m_EditorClassIdentifier: 
+  sideSprites:
+  - {fileID: -338124164, guid: a04d68a6f1ab9d44ebdf928a43c913d3, type: 3}
+  - {fileID: 1774740187, guid: a04d68a6f1ab9d44ebdf928a43c913d3, type: 3}
+  - {fileID: 316829768, guid: a04d68a6f1ab9d44ebdf928a43c913d3, type: 3}
+  - {fileID: -895223054, guid: a04d68a6f1ab9d44ebdf928a43c913d3, type: 3}
+  - {fileID: -1369154226, guid: a04d68a6f1ab9d44ebdf928a43c913d3, type: 3}
+  - {fileID: 960602870, guid: a04d68a6f1ab9d44ebdf928a43c913d3, type: 3}
